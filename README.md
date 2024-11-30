@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Gaafar
 ============================
 
-Android 📱 , Multiplatform🖥️ ,and Web🕸️ Developer
+Web Developer🕸️, Android 📱,and Multiplatform🖥️
 ---------------------------------------------------
 
 Describe yourself
