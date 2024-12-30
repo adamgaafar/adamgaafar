@@ -7,10 +7,9 @@ Web Developer🕸️, Android 📱,and Multiplatform🖥️
 Describe yourself
 
 *   🌍  I'm based in Alexandria
-*   🖥️  See my portfolio at[](http://jj)
 *   ✉️  You can contact me at [dodogaafar.ag@gmail.com](mailto:dodogaafar.ag@gmail.com)
 *   🚀  I'm currently working on [Personal projects](http://github.com/adamgaafar)
-*   🧠  I'm learning Jetpack Compose, Kotlin Multiplatform
+*   🧠  I'm learning Jetpack Compose, Kotlin Multiplatform, ReactJs,NextJs,Front-End development
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Sometimes we could always use a little magic – don’t hide the magic within you✨
  
